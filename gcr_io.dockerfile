@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/skydns:2015-10-13-8c72f8c
+FROM gcr.io/google_containers/exechealthz:1.0
