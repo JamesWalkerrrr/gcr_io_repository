@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/defaultbackend:1.0
+FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.25.0
