@@ -1,1 +1,1 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.25.0
+FROM gcr.io/google_containers/kubernetes-dashboard-amd64:v1.8.3
